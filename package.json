@@ -1,0 +1,23 @@
+{
+  "name": "nestjs-angular-boilerplate",
+  "version": "0.0.0",
+  "private": true,
+  "repository": "github:codespace/nestjs-angular-boilerplate",
+  "license": "MIT",
+  "author": "Joram van den Boezem <joram@vandenboezem.nl>",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "echo 'not implemented'",
+    "test": "echo 'not implemented'"
+  },
+  "devDependencies": {
+    "moker": "4.1.0"
+  },
+  "packageManager": "yarn@4.5.0",
+  "moker": {
+    "plugins": [],
+    "scoped": true
+  }
+}
