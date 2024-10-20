@@ -2,7 +2,7 @@
   "name": "nestjs-angular-boilerplate",
   "version": "0.0.0",
   "private": true,
-  "repository": "github:codespace/nestjs-angular-boilerplate",
+  "repository": "github:hongaar/nestjs-angular-boilerplate",
   "license": "MIT",
   "author": "Joram van den Boezem <joram@vandenboezem.nl>",
   "workspaces": [
