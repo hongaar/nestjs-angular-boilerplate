@@ -1,5 +1,6 @@
-# yarn
+# tools
 .yarn
+.husky
 
 # artifacts
 dist/
