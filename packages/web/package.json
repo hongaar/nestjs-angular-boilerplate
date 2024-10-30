@@ -11,6 +11,7 @@
     "start": "ng serve",
     "start:dev": "ng serve",
     "test": "ng test",
+    "test:ci": "ng test --no-watch --no-progress --browsers=ChromeHeadless",
     "watch": "ng build --watch --configuration development"
   },
   "dependencies": {
