@@ -436,15 +436,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/core@npm:^18.2.0":
-  version: 18.2.8
-  resolution: "@angular/core@npm:18.2.8"
+"@angular/core@npm:^19.0.4":
+  version: 19.0.4
+  resolution: "@angular/core@npm:19.0.4"
   dependencies:
     tslib: "npm:^2.3.0"
   peerDependencies:
     rxjs: ^6.5.3 || ^7.4.0
-    zone.js: ~0.14.10
-  checksum: 10c0/2ace1083ff4095689f6b1e2e200ebf60a36242fad6c6ec90bd5a0d57fed20f3cb0422467758a7b77597c74e5294ff4941e16ecfd1f9972f514069d56415bcdd0
+    zone.js: ~0.15.0
+  checksum: 10c0/5ec602a8ab12e369ec9db73fc97e2644848f91ce7b22e51cc57073e470bf72e43a284c198fa0c43f6d328e3a8bb34ddcb077503126e4803312a0f45a7ba06f68
   languageName: node
   linkType: hard
 
@@ -3294,7 +3294,7 @@ __metadata:
     "@angular/common": "npm:^18.2.0"
     "@angular/compiler": "npm:^18.2.0"
     "@angular/compiler-cli": "npm:^18.2.0"
-    "@angular/core": "npm:^18.2.0"
+    "@angular/core": "npm:^19.0.4"
     "@angular/forms": "npm:^18.2.0"
     "@angular/platform-browser": "npm:^18.2.0"
     "@angular/platform-browser-dynamic": "npm:^18.2.0"
